@@ -4,6 +4,11 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 
+## Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
 # Other files and folders
 .settings/
 

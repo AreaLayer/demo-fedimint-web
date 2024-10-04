@@ -1,0 +1,29 @@
+{
+  "name": "demo-fedimint-web",
+  "version": "1.0.0",
+  "description": "fedimint web project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AreaLayer/demo-fedimint-web.git"
+  },
+  "keywords": [
+    "fedimint",
+    "bitcoin",
+    "web",
+    "lightning"
+  ],
+  "author": "area layer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AreaLayer/demo-fedimint-web/issues"
+  },
+  "homepage": "https://github.com/AreaLayer/demo-fedimint-web#readme",
+  "dependencies": {
+    "@fedimint/core-web": "^0.0.6",
+    "vite-plugin-wasm": "^3.3.0"
+  }
+}
